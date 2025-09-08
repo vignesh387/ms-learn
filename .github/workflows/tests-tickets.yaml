@@ -1,4 +1,4 @@
-name: test
+name: tests-tickets
 # configure when to run this workflow
 on:
   pull_request:
