@@ -1,4 +1,4 @@
-name: test
+name: tests-auth
 # configure when to run this workflow
 on:
   pull_request:

@@ -1,4 +1,4 @@
-name: test
+name: tests-payments
 # configure when to run this workflow
 on:
   pull_request:
