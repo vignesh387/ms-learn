@@ -1,4 +1,4 @@
-name: test
+name: tests-orders
 # configure when to run this workflow
 on:
   pull_request:
